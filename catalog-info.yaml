@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: dynamic-nfs-provisioner
+  annotations:
+    github.com/project-slug: yingxin-gh/dynamic-nfs-provisioner
+spec:
+  type: other
+  lifecycle: unknown
+  owner: team-a
